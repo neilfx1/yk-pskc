@@ -22,10 +22,10 @@ pip install pskc
 
 ## Usage
 ```
-python3 yk-pskc.py -n [number of keys to write] -s [slot 1 or 2]
+python3 yk-multi.py -n [number of keys to write] -s [slot 1 or 2]
 ```
 
 ## Example
 ```
-python3 yk-pskc.py -n 20 -s 1
+python3 yk-multi.py -n 20 -s 1
 ```
