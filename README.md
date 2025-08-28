@@ -14,7 +14,7 @@ Requires YubiKey Manager CLI (`ykman`) and the `pskc` Python module.
 
 Update the location of ykman in the script to match your environment (default locations are currently hard coded).
 
-## Installation
+## Installation of pskc
 
 ```bash
 pip install pskc
